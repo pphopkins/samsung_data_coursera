@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # **GETTING AND CLEANING DATA - COURSERA ASSIGNEMENT**
 
 The dataset used for this project represent data collected from the
